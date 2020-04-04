@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "syngenta-273213",
+  "private_key_id": "3d82a4ea969ae84a6bbcebcf6bb0bfa5a72bdfd1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDozJmP+oHKOY1q\ntKdbHkdgSHdZrxbsONJJ79wp+qjvBaUPRnNFTJ2VERQv1wqqgUrN8C1Iw1KDjfEf\ndEq50DbIct0/btP00WKZ1WfulWDxE6QvDC/kCRYnFmeqmJUvHCnooqtF9Sy0hOq1\nUKCnuajixuI1O4pepX8rk3HOh0+rQ4mqsg+WUatplnIUYjJn9QIMHK1uncdtVh4L\nQMrnG5ChZL6/yKqiYjJ8EyFW+Rf2z23BVABcUrTN40WFPsEfHVD61n3Vf6y3OjCo\n8ZMcUQVSif+uH3A3pxgIy4FCSGQhU0Wc1dU/YjE2t9VRmPY61loRpyDwz6nLuUuz\nDBhfQIsnAgMBAAECggEAJEk+hwXQdNwV/LO47EfNb1FhomMwtamWWZD0u78G1ZmH\nJK43VG4V7UDIE+bhvORB69ShHQODmTQm3ooVWwjR09pXkxtsF++1KJjuG27sOSzL\nEsxEVg0hMf7Y3MCYwaA9sLWo8FLAC56LflnZbhtPGuijehGpm968R5IIE12ISlTZ\n+AjRs9RaPyK9aP7qjYZFKqpSYvzHeA/nBj0ItUoJCY2mdg0QANcfvxz6BqMAxEEV\nsXOy6Ur5MIWWA0ahunZWSZ0Sk8TdrbS104hBbVk66A9zRHBYylZ6lmOGQIiQCfBw\nFnIXjKRhzIhCHxfYV6S7pcZwzZ0A6YkaJAYr0PSuLQKBgQD9kNRs2mHawRrJFC6z\nyxEwWwXg1v7tIBSKO81bWwgTWmO54KkEKsem+Z7pWVOEM1EG9Ccw+B2G2XWG5uIu\nx/tG1rUzKjF4fpw8hSCInIHIEyQBhEmHPiGo2nw49AqsJCEK8oLU1gt8f0hA741C\nVUqW7D9auIxNF09q1/50IpvQgwKBgQDrCLvSoC9M6wlU7bK39BF5nPP4xVXn9a87\nmettlZbFOYEJlypKl7hV+3AIxPANSQaFPsYpElZKFv49cBzM2tvvJuPmiNGw2t4Q\nAFyjjzwTc5dQBNSa9tdhd7W8WAtkA7d+S3TSPU8CcujvzvTdmRvTQXzpPakEL1cr\nlF6yPzIRjQKBgHmQwgcd++QgyHK21l0kci04tmzBJp8Qzkgnu6Cc2BZPM5id+Ooi\niG2pJ2LAjKXI5IPs8g0sJxvLjekLME01W2bu8RiClg0qxkTNnndgcWg2pQCFJ6tL\nQl/tv7ieZ6938s+IzOi1ZfReIYngT10J/yS0Rvt7lugu0MhsnXWYUhN5AoGBALDK\nEP2NoAarhIltglD8NWjUtm8ZgFTKaNTcIkp7ir0vU/By1EzncrC6QLtX53kWxODV\nJxkdwepZAUQVYJR2y5hIGIT/xTrSZtaCbyxYQUggWmDGQWWO5tNZyEmzsF26rftB\nps29cADXjn9TnLxSvqtZRyvqRYfwVBFjuRc6kd7BAoGAdsV7kYf7KRDKQLcG7cx/\nbEMBfVl4CytON4+DDQcaKvhePzVSqkxBj2k19bVF40QnD6kBjdvK8RdfHv2J/xzM\nLH8r91RWv/lLHcbWQ0R48no14BiRRs8tD2J9jmnFJvMebUnCsPg7ZVVRf6Yu/8Ei\nvrVfZH029JFAMF8quDz+e+Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jb-248@syngenta-273213.iam.gserviceaccount.com",
+  "client_id": "101437359726284206319",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jb-248%40syngenta-273213.iam.gserviceaccount.com"
+}
