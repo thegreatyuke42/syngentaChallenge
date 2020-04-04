@@ -10,8 +10,8 @@
 1. Press 'CTRL + C' to terminate server
 
 # Tech Used
-OCR processing handled by Google Vision API
-Weapon info stored in a local json file, weaponList.json
+OCR processing handled by Google Vision API.
+Weapon info stored in a local json file, weaponList.json.
 
 # Struggles
 Originally planned to use Tesseract OCR, but ran into too many issues. Switching to Google Vision took some time but proved to be able to get correct info from supplied images.
